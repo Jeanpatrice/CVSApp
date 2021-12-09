@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CVS App</string>
+    <string name="image_title">image title</string>
+    <string name="title">Title</string>
+    <string name="submit">Submit</string>
+    <string name="rv_description">Recyclerview of images</string>
+    <string name="loading">is Loading Results</string>
+    <string name="description_title">Title of Image</string>
+    <string name="failed_to_fetch_data">Failed to fetch data</string>
+    <string name="unexpected_eror">Unexpected error occured try again</string>
+    <string name="enter_search">Enter Search</string>
+    <string name="search">Search</string>
+    <string name="title_image">Title: %s</string>
+    <string name="description_image">Description: %s</string>
+    <string name="width_image">Width: %s</string>
+    <string name="height_image">Height: %s</string>
+    <string name="author_image">Author: %s</string>
+    <string name="invalid_image">Invalid image, try selecting another.</string>
+    <string name="none">N/A</string>
+</resources>
